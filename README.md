@@ -30,7 +30,7 @@ jupyter notebook
 The predicted stock prices are compared with the actual prices, and the results are visualized using matplotlib.
 
 ## Contributors
-- [Your Name]
+- @slayerrr12
 
 Feel free to contribute by opening issues or submitting pull requests.
 
